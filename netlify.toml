@@ -1,0 +1,4 @@
+[build]
+  publish = "Node classs"
+  # no build command for a static site
+  command = ""
